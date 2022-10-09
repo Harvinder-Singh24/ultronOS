@@ -1,7 +1,7 @@
 
 # Ultron OS
 ---------------------
-Ultron OS is an x86 Operating System written in C++. It is able to boot Initialise the GDT and and IDT and do a couple of   things that Operating Systems are supposed to do.  
+An x86 operating system created in C++ is called Ultron OS. It can boot, initialise the GDT and IDT, and perform a few other tasks that operating systems are expected to perform.
   
 **Author :** @aswinmohanme
 
@@ -16,7 +16,7 @@ Ultron OS is an x86 Operating System written in C++. It is able to boot Initiali
 
 ------------------------
 ## Description
-Ultron is designed with OOP in mind and has not failed to live up to the promise at all possible places.
+OOP was a consideration when creating Ultron, and it has been fulfilled in every way conceivable..
 
 ---------------------------------------
 ## Installation
